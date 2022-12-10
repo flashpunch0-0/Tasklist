@@ -1,0 +1,4 @@
+Created reactjs app using node 
+used hooks to to take input value and store in arrays 
+used props for id and text passed in input
+added cross icon to delete task which is done through using filter function 
